@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
 class square():
-    
     width = 12
     height = 9
 
